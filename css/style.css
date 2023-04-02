@@ -259,10 +259,9 @@ Button:hover, button:focus {
      padding: 10px;
       border-radius: 3px;
      /* gives the button a bottom border with a width of 2px, a type of solid, amd a color RGBA format */
-      border-bottom: 2px solid rgba (0, 0, 0, 0.3);
+      border-bottom: 2px solid rgba(0, 0, 0, 0.3);
      transition-duration: 0.2s;
-     transition-property: opacity;
-}
+     transition-property: opacity;}
     
     button:hover, button:focus, .button:hover, .button:focus {
         /*lets the mouse appear as a hand when hovering over the button */
